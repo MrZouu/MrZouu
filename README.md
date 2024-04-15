@@ -31,11 +31,11 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 ## Software Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,git,cmake, linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,git,cmake, linux" />
   </a>
 </p>
 
-ada ,  
+### And others, such as : Ada
 
 ## Back-end Web
 <p align="center">
@@ -58,7 +58,7 @@ ada ,
   </a>
 </p>
 
-assembleur, FPGA, VHDL
+### And others, such as : Assembly, FPGA, VHDL
 
 ## Design
 <p align="center">
@@ -67,7 +67,7 @@ assembleur, FPGA, VHDL
   </a>
 </p>
 
-sharp3D
+### And others, such as : sharp3D
 <!--
 **MrZouu/MrZouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
