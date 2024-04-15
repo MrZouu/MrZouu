@@ -44,6 +44,8 @@ I'm interested in various fields, including aerospace, robotics and machine lear
   </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 <h3 align="center">Python / Nodejs / SQL / Git</h3>
 
 ## Machine Learning
