@@ -1,30 +1,15 @@
-<h3 align="center">Embedded Systems Engineering Student </h3>
+<h3 align="center">⚡Embedded Systems Engineering Student⚡</h3>
 								
 <br>	
 
-# About me
+# 🔭 About me
 
 Hi! I’m a french Engineering Student at **[ECE Paris](https://www.ece.fr/)**, an Electronics engineering school where I specialize in Embedded Systems. 
 I'm interested in various fields, including aerospace, robotics and machine learning.
 
 <br>	
 
-# Contact
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/lorenzo-m-365a38225/">
-		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-	<a href="mailto:lorenzomarrocchi02@gmail.com">
-		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-</p>
-
-<br>
-
-# My Skills
+# 🌱 My Skills
 ## Software Development
 ### C / C++ / Python / Arduino / Git / Cmake / Bash, Ada
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,arduino,git,cmake,linux,bash&perline=3)](https://skillicons.dev)
@@ -49,6 +34,23 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 ## Tools
 ### VsCode / Notion / GitHub / Anaconda / Clion
 [![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,anaconda,clion&perline=3)](https://skillicons.dev)
+
+<br>
+
+# 📫 Contact
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/lorenzo-m-365a38225/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:lorenzomarrocchi02@gmail.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+</p>
+
+
 
 <!--
 **MrZouu/MrZouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
