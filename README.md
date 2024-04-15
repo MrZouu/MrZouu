@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+	<a href="https://github.com/MrZouu"><img src="https://github.com/MrZouu/MrZouu/blob/main/Images/Lorenzo.jpg" width="100%"></a>
+</p>
 
 <!--
 **MrZouu/MrZouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
