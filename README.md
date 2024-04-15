@@ -28,7 +28,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 <br>
 
 # My Skills
-- Software Development
+## Software Development
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,git,cmake, linux" />
@@ -37,14 +37,14 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 
 ada ,  
 
-- Back-end Web
+## Back-end Web
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,nodejs,mysql, git" />
   </a>
 </p>
 
-- Machine Learning
+## Machine Learning
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow, git" />
@@ -54,13 +54,13 @@ ada ,
 - Hardware Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,ai,ps,blender" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,ai,ps" />
   </a>
 </p>
 
 assembleur, FPGA, VHDL
 
-- Design
+## Design
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,ai,ps,blender" />
