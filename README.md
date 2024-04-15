@@ -27,8 +27,47 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 
 <br>
 
+# My Skills
+- Software Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,git,cmake, linux" />
+  </a>
+</p>
 
- 
+ada ,  
+
+- Back-end Web
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,nodejs,mysql, git" />
+  </a>
+</p>
+
+- Machine Learning
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow, git" />
+  </a>
+</p>
+
+- Hardware Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,ai,ps,blender" />
+  </a>
+</p>
+
+assembleur, FPGA, VHDL
+
+- Design
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,ai,ps,blender" />
+  </a>
+</p>
+
+sharp3D
 <!--
 **MrZouu/MrZouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
