@@ -31,11 +31,11 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 ## Software Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,git,cmake, linux, bash" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,git,cmake,linux,bash" />
   </a>
 </p>
 
-<h3 align="center">C / C++ / Python / Arduino / Git / Cmake / Ada</h3>
+<h3 align="center">C / C++ / Python / Arduino / Git / Cmake / Bash, Ada</h3>
 
 ## Back-end Web
 <p align="center">
