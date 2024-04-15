@@ -51,7 +51,7 @@ ada ,
   </a>
 </p>
 
-- Hardware Development
+## Hardware Development
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=raspberrypi,ai,ps" />
