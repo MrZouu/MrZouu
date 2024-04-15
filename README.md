@@ -29,28 +29,17 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 
 # My Skills
 ## Software Development
+### C / C++ / Python / Arduino / Git / Cmake / Bash, Ada
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,arduino,git,cmake,linux,bash&perline=3)](https://skillicons.dev)
-<h3 align="center">C / C++ / Python / Arduino / Git / Cmake / Bash, Ada</h3>
+
 
 ## Back-end Web
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nodejs,mysql, git" />
-  </a>
-</p>
-
-
-
-<h3 align="center">Python / Nodejs / SQL / Git</h3>
+### Python / Nodejs / SQL / Git
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,mysql,git&perline=3)](https://skillicons.dev)
 
 ## Machine Learning
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" />
-  </a>
-</p>
-
-<h3 align="center">Python / PyTorch / Tensorflow / Keras</h3>
+### Python / PyTorch / Tensorflow / Keras
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow&perline=3)](https://skillicons.dev)
 
 ## Hardware Development
 <p align="center">
