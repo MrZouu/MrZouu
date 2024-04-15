@@ -44,12 +44,16 @@ I'm interested in various fields, including aerospace, robotics and machine lear
   </a>
 </p>
 
+<h3 align="center">Python / Nodejs / SQL / Git</h3>
+
 ## Machine Learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow, git" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" />
   </a>
 </p>
+
+<h3 align="center">Python / PyTorch / Tensorflow / Keras</h3>
 
 ## Hardware Development
 <p align="center">
@@ -58,7 +62,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
   </a>
 </p>
 
-<h3 align="center">And others : Assembly, FPGA, VHDL</h3>
+<h3 align="center">Assembly / FPGA / VHDL</h3>
 
 ## Design
 <p align="center">
@@ -67,7 +71,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
   </a>
 </p>
 
-<h3 align="center">And others : sharp3D</h3>
+<h3 align="center">After Effects / Illustrator / Phostoshop / Blender / sharp3D</h3>
 
 ## Tools
 <p align="center">
