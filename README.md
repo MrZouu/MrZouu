@@ -42,31 +42,16 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow&perline=3)](https://skillicons.dev)
 
 ## Hardware Development
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi" />
-  </a>
-</p>
-
-<h3 align="center">Assembly / FPGA / VHDL</h3>
+### Raspberrypi / Assembly / FPGA / VHDL
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi&perline=3)](https://skillicons.dev)
 
 ## Design
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ai,ps,blender" />
-  </a>
-</p>
-
-<h3 align="center">After Effects / Illustrator / Phostoshop / Blender / sharp3D</h3>
+### After Effects / Illustrator / Phostoshop / Blender / sharp3D
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,blender&perline=3)](https://skillicons.dev)
 
 ## Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,notion,github,anaconda,clion" />
-  </a>
-</p>
-
-<h3 align="center">VsCode / Notion / GitHub / Anaconda / Clion</h3>
+### VsCode / Notion / GitHub / Anaconda / Clion
+[![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,anaconda,clion&perline=3)](https://skillicons.dev)
 
 <!--
 **MrZouu/MrZouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
