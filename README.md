@@ -80,6 +80,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
   </a>
 </p>
 
+<h3 align="center">VsCode / Notion / GitHub / Anaconda / Clion</h3>
 
 <!--
 **MrZouu/MrZouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
