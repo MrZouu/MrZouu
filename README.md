@@ -29,12 +29,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 
 # My Skills
 ## Software Development
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,git,cmake,linux,bash" />
-  </a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,arduino,git,cmake,linux,bash&perline=3)](https://skillicons.dev)
 <h3 align="center">C / C++ / Python / Arduino / Git / Cmake / Bash, Ada</h3>
 
 ## Back-end Web
@@ -44,7 +39,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 <h3 align="center">Python / Nodejs / SQL / Git</h3>
 
