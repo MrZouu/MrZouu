@@ -31,7 +31,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 ## Software Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,git,cmake, linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,git,cmake, linux, bash" />
   </a>
 </p>
 
@@ -68,6 +68,15 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 </p>
 
 <h3 align="center">And others : sharp3D</h3>
+
+## Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,notion,github,anaconda,clion" />
+  </a>
+</p>
+
+
 <!--
 **MrZouu/MrZouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
