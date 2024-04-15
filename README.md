@@ -1,6 +1,3 @@
-<p align="center">
-	<a href="https://github.com/MrZouu"><img src="https://github.com/MrZouu/MrZouu/blob/main/Images/lorenzo_main.jpg" width="60%"></a>
-</p>
 <h3 align="center">Embedded Systems Engineering Student </h3>
 								
 <br>	
