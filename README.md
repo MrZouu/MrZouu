@@ -54,7 +54,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 ## Hardware Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi" />
   </a>
 </p>
 
