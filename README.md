@@ -35,7 +35,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
   </a>
 </p>
 
-### And others, such as : Ada
+<h3 align="center">### And others, such as : Ada</h3>
 
 ## Back-end Web
 <p align="center">
@@ -58,7 +58,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
   </a>
 </p>
 
-### And others, such as : Assembly, FPGA, VHDL
+<h3 align="center">### And others, such as : Assembly, FPGA, VHDL</h3>
 
 ## Design
 <p align="center">
@@ -67,7 +67,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
   </a>
 </p>
 
-### And others, such as : sharp3D
+<h3 align="center">### And others, such as : sharp3D</h3>
 <!--
 **MrZouu/MrZouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
