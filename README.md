@@ -35,7 +35,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
   </a>
 </p>
 
-<h3 align="center">And others : Ada</h3>
+<h3 align="center">C C++ Python Arduino Git Cmake Ada</h3>
 
 ## Back-end Web
 <p align="center">
