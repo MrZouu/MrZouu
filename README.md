@@ -13,7 +13,7 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 
 # 🌱 My Skills
 ## Software Development
-### C / C++ / Python / Arduino / Git / Cmake / Bash, Ada
+### C / C++ / Python / Arduino / Git / Cmake / Bash / Ada
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,arduino,git,cmake,linux,bash&perline=3)](https://skillicons.dev)
 
 
