@@ -9,6 +9,8 @@
 Hi! I’m a french Engineering Student at **[ECE Paris](https://www.ece.fr/)**, an Electronics engineering school where I specialize in Embedded Systems. 
 I'm interested in various fields, including aerospace, robotics and machine learning.
 
+I'm currently on an internship at **[Parrot](https://www.parrot.com/fr)** as a Test and Functional Validation Engineer.
+
 <br>	
 
 # 🌱 My Skills
