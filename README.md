@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-	<img src="./images/GitHubWall.png" width="70%">
+	<img src="./images/GitHubWall2.png" width="70%">
 </p>
 
 <h3 align="center">⚡Embedded Systems Engineering Student⚡</h3>
