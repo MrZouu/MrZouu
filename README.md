@@ -15,33 +15,40 @@ I'm interested in various fields, including aerospace, robotics and machine lear
 
 I'm currently on an internship at **[Parrot](https://www.parrot.com/fr)** as a Test and Functional Validation Engineer.
 
-<br>	
+<br>
 
-# 🌱 My Skills
-## Software Development
-### C / C++ / Python / Arduino / Git / Cmake / Bash / Ada
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,arduino,git,cmake,linux,bash&perline=3)](https://skillicons.dev)
+More informations on my website: **[lorenzomarrocchi.com](https://lorenzomarrocchi.com/)**
 
+<br>
 
-## Back-end Web
-### Python / Nodejs / SQL / Git
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs,mysql,git&perline=3)](https://skillicons.dev)
+# 📂 Projects
+## [🤘 SmoothTalk • 2024](https://github.com/MrZouu/SmoothTalk)
 
-## Machine Learning
-### Python / PyTorch / Tensorflow / Keras
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow&perline=3)](https://skillicons.dev)
+This project is a Sign language interpreter, to switch from a video signal to a corresponding word. This machine-learning project, powered by PyTorch, aims to develop a sign language recognition system.
 
-## Hardware Development
-### Raspberrypi / Assembly / FPGA / VHDL
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi&perline=3)](https://skillicons.dev)
+<p align="center">
+	<a href="https://github.com/MrZouu/SmoothTalk"><img src="https://github.com/MrZouu/SmoothTalk/blob/main/SmoothTalk/SmoothTalkCover2.png" width="600"></a>
+</p>
 
-## Design
-### After Effects / Illustrator / Phostoshop / Blender / sharp3D
-[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,blender&perline=3)](https://skillicons.dev)
+<br>
 
-## Tools
-### VsCode / Notion / GitHub / Anaconda / Clion
-[![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,anaconda,clion&perline=3)](https://skillicons.dev)
+## [🌐 Portfolio • 2024](https://github.com/MrZouu/Portfolio)
+
+This project is a website portfolio created to introduce myself and showcase my computer science projects. It's a responsive website built using HTML, CSS, and JavaScript.
+
+<p align="center">
+	<a href="https://github.com/MrZouu/Portfolio"><img src="https://github.com/MrZouu/Portfolio/blob/main/assets/homepage.png" width="600"></a>
+</p>
+
+<br>
+
+## [⚓ Battleship • 2022](https://github.com/MrZouu/Battleship)
+
+This project is a simplified console version of the board game Battleship.
+
+<p align="center">
+	<a href="https://github.com/MrZouu/Battleship"><img src="https://github.com/MrZouu/Battleship/blob/main/images/bataille.png" width="600"></a>
+</p>
 
 <br>
 
