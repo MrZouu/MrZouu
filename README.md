@@ -56,13 +56,13 @@ This project is a simplified console version of the board game Battleship.
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/lorenzo-m-365a38225/">
-		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+		<img src="https://skillicons.dev/icons?i=linkedin">
 	</a>
-	<span>&nbsp;</span>
+	<span></span>
 	<a href="mailto:lorenzomarrocchi02@gmail.com">
-		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+		<img src="https://skillicons.dev/icons?i=gmail">
 	</a>
-	<span>&nbsp;</span>
+	<span></span>
 </p>
 
 
