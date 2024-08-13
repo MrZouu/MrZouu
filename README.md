@@ -22,6 +22,16 @@ More informations on my website: **[lorenzomarrocchi.com](https://lorenzomarrocc
 <br>
 
 # 📂 Projects
+## [📻 Radio-Transmitter • 2024](https://github.com/MrZouu/Radio-Transmitter)
+
+This project is an Arduino-based remote control system designed for wirelessly piloting various projects, including drones, robots, and more.
+
+<p align="center">
+	<a href="https://github.com/MrZouu/Radio-Transmitter"><img src="https://github.com/MrZouu/Radio-Transmitter/blob/main/images/radiotransmitter_illustration.png" width="600"></a>
+</p>
+
+<br>
+
 ## [🤘 SmoothTalk • 2024](https://github.com/MrZouu/SmoothTalk)
 
 This project is a Sign language interpreter, to switch from a video signal to a corresponding word. This machine-learning project, powered by PyTorch, aims to develop a sign language recognition system.
