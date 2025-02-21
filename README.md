@@ -13,7 +13,7 @@
 Hi! I’m a french Engineering Student at **[ECE Paris](https://www.ece.fr/)**, an Electronics engineering school where I specialize in Embedded Systems. 
 I'm interested in various fields, including aerospace, robotics and machine learning.
 
-I'm currently on an internship at **[Parrot](https://www.parrot.com/fr)** as a Test and Functional Validation Engineer.
+I'm currently on an internship at **[Airbus](https://www.airbus.com/en)**.
 
 <br>
 
@@ -22,12 +22,12 @@ More informations on my website: **[lorenzomarrocchi.com](https://lorenzomarrocc
 <br>
 
 # 📂 Projects
-## [📻 Radio-Transmitter • 2024](https://github.com/MrZouu/Radio-Transmitter)
+## [🤿 Bluexplorer. • 2025](https://github.com/MrZouu/Bluexplorer.)
 
-This project is an Arduino-based remote control system designed for wirelessly piloting various projects, including drones, robots, and more.
+This project is a low-cost underwater drone designed for research, education, and experimentation, integrating real-time video streaming.
 
 <p align="center">
-	<a href="https://github.com/MrZouu/Radio-Transmitter"><img src="https://github.com/MrZouu/Radio-Transmitter/blob/main/images/radiotransmitter_illustration.png" width="600"></a>
+	<a href="https://github.com/MrZouu/Bluexplorer."><img src="https://github.com/MrZouu/Bluexplorer./blob/main/bluexplorer/bluexplorer_cover.png" width="600"></a>
 </p>
 
 <br>
@@ -48,6 +48,16 @@ This project is a website portfolio created to introduce myself and showcase my 
 
 <p align="center">
 	<a href="https://github.com/MrZouu/Portfolio"><img src="https://github.com/MrZouu/Portfolio/blob/main/assets/homepage.png" width="600"></a>
+</p>
+
+<br>
+
+## [📻 Radio-Transmitter • 2024](https://github.com/MrZouu/Radio-Transmitter)
+
+This project is an Arduino-based remote control system designed for wirelessly piloting various projects, including drones, robots, and more.
+
+<p align="center">
+	<a href="https://github.com/MrZouu/Radio-Transmitter"><img src="https://github.com/MrZouu/Radio-Transmitter/blob/main/images/radiotransmitter_illustration.png" width="600"></a>
 </p>
 
 <br>
